@@ -1,0 +1,17 @@
+{
+    "name": "my-contact-form",
+    "version": "1.0.0",
+    "description": "Contact form with serverless email function",
+    "main": "index.js",
+    "scripts": {
+        "start": "vercel dev"
+    },
+    "dependencies": {
+        "nodemailer": "^6.7.2",
+        "node-fetch": "^2.6.1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {},
+    "keywords": []
+}
